@@ -40,11 +40,11 @@
     <a href="https://github.com/dhananjay07b/Face_ReKognition.tu"><strong>Explore the docs»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/dhananjay07b/Face_ReKognition.tu">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/dhananjay07b/Face_ReKognition.tu/issues">Report Bug</a>
+    <!--.
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>-->
   </p>
 </div>
 
@@ -81,18 +81,19 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Product Name Screen Shot][product-screenshot]
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+The project is about automation of the process of attendance in the hostels of college.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Here are some other objectives:
+* Studying and analysis of face detection algorithms specifically in cnn,yolo,darknet and tensorflow.
+* Data collection and data preprocessing(cleaning and feature detection).
+* Analysis and customisation of present algorithms.
+* Deployment of software and hardware in one of the hostels,real time testing of the project.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Of course, there will be some discrepancies but we will continously train our program to get better results.
 
-Use the `BLANK_README.md` to get started.
+Use the `README.md` to get started.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -100,17 +101,19 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section lists major frameworks/libraries used to bootstrap our project. Leave any add-ons/plugins for the acknowledgements section. Here's what we used.
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Python (version 3.7.4)](https://www.python.org/downloads/release/python-374/)
+* [Numpy (version 1.16.5)](https://numpy.org/install/)
+* [Tensorflow (version 2.8.0-dev20211217)](https://www.tensorflow.org/install)
+* [OpenCv (version 4.5.5)](https://www.geeksforgeeks.org/how-to-install-opencv-for-python-in-windows/)
+* [Keras (version 2.8.0)](https://techvidvan.com/tutorials/keras-installation/)
+* [matplotlib (version 3.1.1)](https://www.tutorialspoint.com/how-to-install-matplotlib-in-python)
+* [Pillow (version 9.0.1)](https://pypi.org/project/Pillow/)
+* DarkNet
+* YOLOv3
 
+NOTE : Tensorflow version should be restricted from 3.7 to 3.9 versions of python
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -249,5 +252,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/thapar.jpg
 
