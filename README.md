@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/dhananjay07b/Face_ReKognition.tu">
-    <img src="images/thapar.jpg" alt="Logo" <!--width="800" height="800"-->>
+    <img src="images/thapar.jpg" alt="Logo" width="458" height="260">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
