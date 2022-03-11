@@ -127,19 +127,47 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* pip
   ```sh
-  npm install npm@latest -g
+  pip install --upgrade pip
   ```
-
+* conda
+* opencv
+  ```sh
+  pip install opencv-python
+  ```
+* tensorflow
+  ```sh
+  pip install tensorflow
+  ```
+  ```sh
+  pip install tf-nightly
+  ```
+* numpy
+  ```sh
+  pip install numpy
+  ```
+* matpltlib
+  ```sh
+  pip install matplotlib
+  ```
+* keras
+  ```sh
+  pip install keras
+  ```
+  * pillow
+  ```sh
+  pip install Pillow
+  ```
+  
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [link](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/dhananjay07b/Face_Rekognition.tu.git
    ```
 3. Install NPM packages
    ```sh
